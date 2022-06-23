@@ -1,3 +1,12 @@
+---
+layout: default
+title: Previous Experience Tale
+parent: Blog
+nav_order: 1
+---
+
+
+
 ### The motives I decided to shape as a tech explorer 
 
 
