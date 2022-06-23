@@ -5,17 +5,22 @@ parent: Blogs
 nav_order: 1
 ---
 
+<br />
+<br />
 
 
 ### The motives I decided to shape as a tech explorer 
+
 <br />
 <br />
 
 
 > My motivations for faring across tech world, handling new tools with ease  were as varied as the areas I reached. But a few motives stand out as being especially inspired by the Vikings'' exploring spirit. I always found their accomplishments as explorers and settlers equally magnificent.
-> 
+
+
 <br />
 <br />
+
 
 #### Testing the Seas
 
@@ -37,6 +42,9 @@ The first land I explored and where I settled for 3 years was QA Engineering whe
 
 #### Playing with the finger into the DevOps Ocean 
 
+<br />
+
+
 After testing the seas for a while I decided to sail into DevOps roles.
 
 - `IOT waters`  swimming with RasberyPis @[Easypost](https://easypost.ro/) and @[DeviceHub](https://www.linkedin.com/company/devicehub-net/about/)
@@ -52,7 +60,9 @@ After testing the seas for a while I decided to sail into DevOps roles.
 
 
 #### Comfortable in bigger winds and enjoying my time on the water.
+
 <br />
+
 
 In my sailing adventure I explored for ~2years the `Technical Escalation Support @Microsoft` working simultaneously with top 500 companies by provisioning, maintenance, providing Infrastructure support/advisory on Microsoft Azure Architecture and Services with a main focus on AKS, ACI, Azure Container Apps, Azure RedHat OpenShift (ARO), this role required joggling with meetings, scoping, prioritizing troubleshooting, isolate the issue and deliver  solutions alongside mentoring my  team, help them with their tasks, authoring learning materials, being a proxy between product group-customers-engineers,  helping other teams. I once was told that our role is similar to a urgency medical stuff, the patients are arriving with serious wounds, we prioritize then, heal them, and move to the other batch of patients, each day non stop.
 
