@@ -43,7 +43,8 @@ After testing the seas for a while I decided to sail into DevOps roles.
           -  build a vanila OS based on Linux packages
           -  customize the image accordingly to the bussiness needs in matter of app/networking/security/monitoring
       -  Designed Pipelines to launch a new image creation when app code was modified
-      -  Set up monitoring and logging with ELK, Logstash, FileBeat and Sensu | Graphite and Grafana/Influxdb
+      -  Set up monitoring and logging with ELK, Logstash, FileBeat and Sensu 
+      -  Graphite and Grafana/Influxdb
       -  Using SaltStack for infrastructure management
 
 
@@ -57,13 +58,15 @@ After testing the seas for a while I decided to sail into DevOps roles.
 
 **Gaming** <- Pacman project @BandaiNamco
    - Short Ramp-UP tasks on Ansible, AWS
-   - 
+   
+   
 <br/>
 
 **Containers and container Orchestartion** <- Copernicus the European Union's Earth Observation Program  @eaudeweb
    - working with Docker, Dockerfiles, DockerCompose on a daily basis
    - container workestration done via Rancher
-   - 
+
+
 <br/>
 
 **Cloud** [@Localised](https://www.localised.com/) <- ecommerce localisation for the world’s most coveted brands
