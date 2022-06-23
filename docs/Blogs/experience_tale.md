@@ -36,7 +36,7 @@ The first land I explored and where I settled for 3 years was QA Engineering whe
 
 After testing the seas for a while I decided to sail into DevOps roles.
 
-`IOT`  
+**IOT**  
 - @[Easypost](https://easypost.ro/) <- offers delivery solutions in automatic terminals [lockers]
    -  The lockers core is a RasberyPi which is runned by a custom-made Debian Image
       -  I designed and implemented a bash script which included 2 main stages:
@@ -52,30 +52,37 @@ After testing the seas for a while I decided to sail into DevOps roles.
       -  I implemented server infrastructure orchestration with Salt
       -  Worked with LCX and building custom Debian packages
 
+
 <br/>
 
-- `Gaming` <- Pacman project @BandaiNamco
+**Gaming** <- Pacman project @BandaiNamco
    - Short Ramp-UP tasks on Ansible, AWS
+   - 
 <br/>
 
-- `Containers and container Orchestartion` <- Copernicus the European Union's Earth Observation Program  @eaudeweb
+**Containers and container Orchestartion** <- Copernicus the European Union's Earth Observation Program  @eaudeweb
    - working with Docker, Dockerfiles, DockerCompose on a daily basis
    - container workestration done via Rancher
+   - 
 <br/>
 
-- `Cloud` [@Localised](https://www.localised.com/) <- ecommerce localisation for the world’s most coveted brands
+**Cloud** [@Localised](https://www.localised.com/) <- ecommerce localisation for the world’s most coveted brands
    - working with AWS services on a daily basis,
    - Creating scripts for AWS Lambda with Python and Boto3, in order to collect the logs at a granular level and create Cloudwatch dashboards
    - Infrastucture management via CloudFormation
-   
+ 
+ 
  <br/>
  
-- Kubernetes @IBM
+ 
+**Kubernetes** @IBM
    - working with K8s on a daily basis,
+
 
 <br/>
 
-- `embedded` eSim @Ericson`
+
+**embedded** eSim @Ericson`
    - Short Ramp-UP tasks on Ansible
 
 
