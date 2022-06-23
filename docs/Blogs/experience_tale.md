@@ -87,10 +87,10 @@ I explored for ~2years the `Technical Escalation Support @Microsoft` working sim
 
 
 😱💣🤯 **My career path shaped me**:
-🚀 to be capable of `resolving complex issues`, `learn on the spot`, `adapt`, `filter the log noise and find the patterns`
-🚀 `not to be own by the tools I use` <- having a clear view that first we need to understand what the issue is or what the needs and expectation are and then look for the suitable tools
-🚀 how to talk with customers [customer service skills ]  
-🤯 and many more
+- 🚀 to be capable of `resolving complex issues`, `learn on the spot`, `adapt`, `filter the log noise and find the patterns`
+- 🚀 `not to be own by the tools I use` <- having a clear view that first we need to understand what the issue is or what the needs and expectation are and then look for the suitable tools
+- 🚀 how to talk with customers [customer service skills ]  
+- 🤯 and many more
 
 
 
