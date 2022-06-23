@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Azure Child Page
+title: AKS
 parent: Azure
 grand_parent: Cloud
 permalink: /docs/Cloud/Azure/
