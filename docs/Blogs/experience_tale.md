@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Previous Experience Tale
-parent: Blog
+parent: Blogs
 nav_order: 1
 ---
 
