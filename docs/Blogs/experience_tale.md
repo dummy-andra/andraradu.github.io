@@ -12,7 +12,6 @@ nav_order: 1
 ### The motives I decided to shape as a tech explorer 
 
 <br />
-<br />
 
 
 > My motivations for faring across tech world, handling new tools with ease  were as varied as the areas I reached. But a few motives stand out as being especially inspired by the Vikings'' exploring spirit. I always found their accomplishments as explorers and settlers equally magnificent.
@@ -43,6 +42,7 @@ The first land I explored and where I settled for 3 years was QA Engineering whe
 #### Playing with the finger into the DevOps Ocean 
 
 <br />
+
 
 
 After testing the seas for a while I decided to sail into DevOps roles.
