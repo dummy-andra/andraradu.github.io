@@ -55,7 +55,9 @@ I started as QA Engineering where I got involved in embedded, ai/mobile, OS and 
 
 
 
-### 
+## Qualifications & Experience:
+
+### <br />
 
 #### After testing the seas for almost 3years I decided to **peer** into DevOps roles working on fields as:
 
@@ -136,4 +138,11 @@ I satisfied my desire activating as a `Technical Escalation Support` [@Microsoft
   - `Azure environment troubleshooting and setup`, configuring and maintaining backup, monitoring, and alerting systems, writing infrastructure as code (Azure Resource Manager, Biceps), advisory on Microsoft Azure Architecture and Services, with a main focus on `AKS, ACI, Azure Container Apps, Azure RedHat OpenShift (ARO)`.
 
 This role required joggling with meetings, scoping, prioritizing troubleshooting, isolate the issue and deliver  solutions alongside mentoring my  team, help them with their tasks, authoring learning materials, being a proxy between product group-customers-engineers,  helping other teams. 
+
+- <br />
+  <br />
+
+- ### 
+
+- - 
 
