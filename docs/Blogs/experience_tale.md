@@ -53,6 +53,7 @@ I started as QA Engineering where I got involved in embedded, ai/mobile, OS and 
   <br />
   <br />
 
+<br />
 
 
 ## Qualifications & Experience:
@@ -139,10 +140,4 @@ I satisfied my desire activating as a `Technical Escalation Support` [@Microsoft
 
 This role required joggling with meetings, scoping, prioritizing troubleshooting, isolate the issue and deliver  solutions alongside mentoring my  team, help them with their tasks, authoring learning materials, being a proxy between product group-customers-engineers,  helping other teams. 
 
-- <br />
-  <br />
-
-- ### 
-
-- - 
 
