@@ -10,7 +10,7 @@
 > 
 > 🚀 DevOps engineer  currently with a focus on codding and security
 > 
-> Location:
+> 🌍 Location:
 > - Remotely anywhere within the EU via CIM
 > - Remotely anywhere worldwide via collaboration B2B
 
