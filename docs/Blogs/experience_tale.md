@@ -10,7 +10,7 @@ nav_order: 1
 <br />
 <br />
 
-[TOC]
+
 
 
 
@@ -38,7 +38,7 @@ nav_order: 1
 <br />
 
 
-> The strategy I took towards my goals was to **stretch** myself to get a variety of ritch experiences by putting myself in **new situations** and get a broader range of challenges across multiple environments from startups to big corporations handeling various technologies
+> The strategy I took towards my goals was to **stretch** myself to get a variety of rich experiences by putting myself in **new situations** and get a broader range of challenges across multiple environments from startups to big corporations handling various technologies, looking to get different problems  that evolve constantly, every day.
 
 
 
@@ -69,7 +69,7 @@ I started as QA Engineering where I got involved in embedded, ai/mobile, OS and 
 
 
 
-After testing the seas for almost 3years I decided to **peer** into DevOps roles working on fields as:
+After testing the seas for almost 3years I become more interested in solving complex business problems  and building solutions and environments that impact others success, not only my own team so I decided to **peer** into DevOps roles working on fields as:
 
 - IoT 
     - @[Easypost](https://easypost.ro/) <- offers delivery solutions in automatic terminals [lockers]
@@ -116,19 +116,9 @@ After testing the seas for almost 3years I decided to **peer** into DevOps roles
 <br />
 
 - Technical Escalation Support [@Microsoft](https://docs.microsoft.com/en-us/azure/aks/)
+  - I was daily interacting with internal teams and with customer engineering teams on a wide variety of `Azure projects (migration, containerization, transformation)` in different time zones meeting SLAs and ensuring 24×7 support for:
+      - `Azure environment troubleshooting and setup`, configuring and maintaining backup, monitoring, and alerting systems, writing infrastructure as code (Azure Resource Manager, Biceps), advisory on Microsoft Azure Architecture and Services, with a main focus on `AKS, ACI, Azure Container Apps, Azure RedHat OpenShift (ARO)`.
+  - This role required joggling with meetings, scoping, prioritizing troubleshooting, isolate the issue and deliver  solutions alongside mentoring my  team, help them with their tasks, authoring learning materials, being a proxy between product group-customers-engineers,  helping other teams. 
 
-<br/>
 
 
-
-#### I was looking to get different problems  that evolve constantly, every day.
-
- <br/>
-
-I become more interested in solving complex business problems  and building solutions and environments that impact others success, not only my own team.
-
-I satisfied my desire activating as a `Technical Escalation Support` [@Microsoft](https://docs.microsoft.com/en-us/azure/aks/), by interacting with internal teams and with customer engineering teams on a wide variety of `Azure projects (migration, containerization, transformation)` in different time zones meeting SLAs and ensuring 24×7 support for:
-
-  - `Azure environment troubleshooting and setup`, configuring and maintaining backup, monitoring, and alerting systems, writing infrastructure as code (Azure Resource Manager, Biceps), advisory on Microsoft Azure Architecture and Services, with a main focus on `AKS, ACI, Azure Container Apps, Azure RedHat OpenShift (ARO)`.
-
-This role required joggling with meetings, scoping, prioritizing troubleshooting, isolate the issue and deliver  solutions alongside mentoring my  team, help them with their tasks, authoring learning materials, being a proxy between product group-customers-engineers,  helping other teams. 
