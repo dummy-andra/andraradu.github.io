@@ -87,15 +87,12 @@ I started as QA Engineering where I got involved in embedded, ai/mobile, OS and 
 
 > **embedded** eSim @Ericson`
 
-       - Short Ramp-UP tasks on Ansible
 
 <br/>
 
 <br/>
 
 >  **Gaming** <- Pacman project **@BandaiNamco**
-
-       - Short Ramp-UP tasks on Ansible, AWS
 
 <br/>
 
