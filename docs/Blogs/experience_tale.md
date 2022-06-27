@@ -32,7 +32,7 @@ nav_order: 1
 <br />
 <br />
 
-```forth
+```
 The strategy I took towards my goals was to stretch myself to get a variety of ritch experiences by putting myself in new situations and get a broader range of challenges across multiple environments from startups to big corporations handeling various technologies
 ```
 
@@ -63,20 +63,20 @@ I started as QA Engineering where I got involved in embedded, ai/mobile, OS and 
 
 >  **IOT**  
 
-    - @[Easypost](https://easypost.ro/) <- offers delivery solutions in automatic terminals [lockers]
-      -  The lockers core is a RasberyPi which is runned by a custom-made Debian Image
-         -  I designed and implemented a bash script which included 2 main stages:
-            -  build a vanila OS based on Linux packages
-            -  customize the image accordingly to the bussiness needs in matter of app/networking/security/monitoring
-         -  Designed Pipelines to launch a new image creation when app code was modified
-         -  Set up monitoring and logging with ELK, Logstash, FileBeat and Sensu 
-         -  Graphite and Grafana/Influxdb
-         -  Using SaltStack for infrastructure management
+  - @[Easypost](https://easypost.ro/) <- offers delivery solutions in automatic terminals [lockers]
+    -  The lockers core is a RasberyPi which is runned by a custom-made Debian Image
+       -  I designed and implemented a bash script which included 2 main stages:
+          -  build a vanila OS based on Linux packages
+          -  customize the image accordingly to the bussiness needs in matter of app/networking/security/monitoring
+       -  Designed Pipelines to launch a new image creation when app code was modified
+       -  Set up monitoring and logging with ELK, Logstash, FileBeat and Sensu 
+       -  Graphite and Grafana/Influxdb
+       -  Using SaltStack for infrastructure management
 
-    - @[DeviceHub](https://www.linkedin.com/company/devicehub-net/about/) <- think of it as Wordpress for IoT applications
-         - DeviceHub is a distributed computing platform that allows to develop, debug, scale and evolve Internet of Things (IoT) applications 
-           -  I implemented server infrastructure orchestration with Salt
-           -  Worked with LCX and building custom Debian packages
+  - @[DeviceHub](https://www.linkedin.com/company/devicehub-net/about/) <- think of it as Wordpress for IoT applications
+       - DeviceHub is a distributed computing platform that allows to develop, debug, scale and evolve Internet of Things (IoT) applications 
+         -  I implemented server infrastructure orchestration with Salt
+         -  Worked with LCX and building custom Debian packages
 
 <br/>
 
@@ -100,11 +100,11 @@ I started as QA Engineering where I got involved in embedded, ai/mobile, OS and 
 
 >  **Containers and container Orchestration** 
 
-    -  Copernicus the European Union's Earth Observation Program  **@eaudeweb**
-      - working with Docker, Dockerfiles, DockerCompose on a daily basis
-      - container workestration done via Rancher
-    - **Kubernetes** **@IBM**
-         - working with K8s on a daily basis
+  -  Copernicus the European Union's Earth Observation Program  **@eaudeweb**
+    - working with Docker, Dockerfiles, DockerCompose on a daily basis
+    - container workestration done via Rancher
+  - **Kubernetes** **@IBM**
+       - working with K8s on a daily basis
 
 <br/>
 
@@ -112,11 +112,11 @@ I started as QA Engineering where I got involved in embedded, ai/mobile, OS and 
 
 >  **Cloud** 
 
-    -  [@Localised](https://www.localised.com/)  is an ecommerce localisation for the world’s most coveted brands
+  -  [@Localised](https://www.localised.com/)  is an ecommerce localisation for the world’s most coveted brands
 
-      - working with `AWS`services on a daily basis
-      - Creating scripts for `AWS Lambda` with `Python` and `Boto3`, in order to collect the logs at a granular level and create `CloudWatch dashboards`
-      - Infrastructure management via `CloudFormation`
+    - working with `AWS`services on a daily basis
+    - Creating scripts for `AWS Lambda` with `Python` and `Boto3`, in order to collect the logs at a granular level and create `CloudWatch dashboards`
+    - Infrastructure management via `CloudFormation`
 
   
 
