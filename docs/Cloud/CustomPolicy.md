@@ -1,8 +1,8 @@
 ---
 layout: default
 title: CustomPolicy
-parent: Azure
-grand_parent: Cloud
+parent: AzurePolicy
+grand_parent: Azure
 has_children: true
 permalink: /docs/Cloud/Azure/AzurePolicy
 ---
