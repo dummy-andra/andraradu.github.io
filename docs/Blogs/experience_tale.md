@@ -60,7 +60,7 @@ I started as QA Engineering where I got involved in embedded, ai/mobile, OS and 
 
 ### <br />
 
-#### After testing the seas for almost 3years I decided to **peer** into DevOps roles working on fields as:
+#### After testing the seas for almost 3years I decided to **peer** into DevOps roles working on fields as IoT {@[Easypost](https://easypost.ro/), @[DeviceHub](https://www.linkedin.com/company/devicehub-net/about/)}, Embedded { eSim Priject @Ericson}, Gamming {Pacman project @BandaiNamco}, Containers and container Orchestration {@eaudeweb, @IBM}, Cloud {[@Localised](https://www.localised.com/)}, Technical Escalation Support [@Microsoft](https://docs.microsoft.com/en-us/azure/aks/)
 
 <br/>
 
@@ -81,18 +81,6 @@ I started as QA Engineering where I got involved in embedded, ai/mobile, OS and 
          -  I implemented server infrastructure orchestration with Salt
          -  Worked with LCX and building custom Debian packages
 
-<br/>
-
-<br/>
-
-> **embedded** eSim @Ericson`
-
-
-<br/>
-
-<br/>
-
->  **Gaming** <- Pacman project **@BandaiNamco**
 
 <br/>
 
