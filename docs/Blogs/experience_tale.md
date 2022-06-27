@@ -60,11 +60,18 @@ I started as QA Engineering where I got involved in embedded, ai/mobile, OS and 
 
 ### <br />
 
-#### After testing the seas for almost 3years I decided to **peer** into DevOps roles working on fields as IoT {@[Easypost](https://easypost.ro/), @[DeviceHub](https://www.linkedin.com/company/devicehub-net/about/)}, Embedded { eSim Priject @Ericson}, Gamming {Pacman project @BandaiNamco}, Containers and container Orchestration {@eaudeweb, @IBM}, Cloud {[@Localised](https://www.localised.com/)}, Technical Escalation Support [@Microsoft](https://docs.microsoft.com/en-us/azure/aks/)
+After testing the seas for almost 3years I decided to **peer** into DevOps roles working on fields as:
+- IoT {@[Easypost](https://easypost.ro/), @[DeviceHub](https://www.linkedin.com/company/devicehub-net/about/)},
+- Embedded { eSim Priject @Ericson}, 
+- Gamming {Pacman project @BandaiNamco}, 
+- Containers and container Orchestration {@eaudeweb, @IBM}, 
+- Cloud {[@Localised](https://www.localised.com/)}, 
+- Technical Escalation Support [@Microsoft](https://docs.microsoft.com/en-us/azure/aks/)
 
 <br/>
 
->  **IOT**  
+
+**IOT**  
 
   - @[Easypost](https://easypost.ro/) <- offers delivery solutions in automatic terminals [lockers]
     -  The lockers core is a RasberyPi which is runned by a custom-made Debian Image
