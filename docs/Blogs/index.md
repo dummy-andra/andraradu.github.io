@@ -6,5 +6,5 @@ has_children: true
 permalink: /docs/Blogs
 ---
 
-# demo
+# Blog Posts
 
