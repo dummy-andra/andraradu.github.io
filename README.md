@@ -20,7 +20,7 @@
 
 
 
-> 🚀 **Azure Escalation Support** || **Team Lead**
+> 🚀 **Azure Escalation Support**/**ARO Team Lead**
 >
 > - sept. 2020 - may 2022  Microsoft (**FTE** )
 <br />
