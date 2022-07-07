@@ -9,36 +9,20 @@
 <br />
 
 
-
-
-
-> 🧙‍♂️ **DevOps Engineer** [**B2B**]
->
-> - may. 2022 - present
+|Fields of expertise and experience|
 <br />
 <br />
 
-
-
-> 🚀 **Azure Escalation Support**/**ARO Team Lead**
->
-> - sept. 2020 - may 2022  Microsoft (**FTE** )
+> 🚀 **Microsost (FTE) Azure Escalation Support**/**ARO Team Lead** ~ 2 years
 <br />
  
 
-> 🧙‍♂️ **DevOps Engineer** 
->
-> - 2016 - sept. 2020 
->   - In my first year I worked **simultaneously** for various startups and small/medium companies, for the obvious reason of growing two times faster in this competitive field
->   - A big chuck of this period I also worked as **Contractor** for IBM and Ericsson
+> 🧙‍♂️ **DevOps Engineer**  > 6years, In my first year I worked **simultaneously** for various startups and small/medium companies, for the obvious reason of growing two times faster in this competitive field. A big chuck of this period I also worked as **Contractor** for IBM and Ericsson.
 <br />
 
 
-> 💣 **QA Engineer** 
->
-> - 2014 - 2016 Worked as QA mostly as Contractor in fields like embedded, mobile, RTOS, Enterprise OS, banking
->
->   
+> 💣 **QA Engineer** > 2 years Worked as QA mostly as Contractor in fields like embedded, mobile, RTOS, Enterprise OS, banking
+
 <br />
 <br />
 
