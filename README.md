@@ -8,10 +8,7 @@
 <br />
 <br />
 
-🧙‍♂️ I've been in this game for years since 2014 | 🚀 DevOps engineer currently with a focus on codding and security
 
-<br />
-<br />
 
 
 | Fields of expertise and experience |
