@@ -1,7 +1,9 @@
 # About                                 
 
 <br />
+
 🧙‍♂️ I've been in this game for years since 2014 | 🚀 DevOps engineer currently with a focus on codding and security
+
 <br />
 
 
@@ -36,7 +38,7 @@
 
 
 
-> 🌍 Location:
+🌍 Location:
 > - Remotely anywhere within the EU via CIM
 > - Remotely anywhere worldwide via collaboration B2B
 
