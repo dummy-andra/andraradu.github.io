@@ -16,9 +16,11 @@
 >
 > - may. 2022 - present
 <br />
+<br />
 
 
-> 🚀 **Azure Escalation Support** **|| Team Lead**
+
+> 🚀 **Azure Escalation Support** || **Team Lead**
 >
 > - sept. 2020 - may 2022  Microsoft (**FTE** )
 <br />
