@@ -5,9 +5,8 @@
 > 🧙‍♂️ I've been in this game for years since 2014  | 🚀 DevOps engineer  currently with a focus on codding and security
 >
 <br />
-🧙‍♂️ **DevOps Engineer**  [**B2B**]
-
-- `may. 2022 - present`
+> 🧙‍♂️  **DevOps Engineer**  [**B2B**]
+       - `may. 2022 - present`
 <br />
 
 🚀 **Azure Escalation Support** **|| Team Lead**
