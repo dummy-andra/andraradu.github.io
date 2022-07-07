@@ -2,13 +2,10 @@
 
 <br />
 
-`Personal tech wiki notes from hobby and individual projects.`
-
-<br />
-
 > 🧙‍♂️ I've been in this game for years since 2014  | 🚀 DevOps engineer  currently with a focus on codding and security
+>
 <br />
-🧙‍♂️ **DevOps Engineer** [**B2B**]
+🧙‍♂️ **DevOps Engineer**  [**B2B**]
 
 - `may. 2022 - present`
 <br />
