@@ -13,10 +13,5 @@ permalink: /docs/Projects
 >
 > [Containerize apps using Azure Kubernetes Service (AKS) on Azure DevOps](https://github.com/dummy-andra/CloudEngineerNotes/tree/main/8-Projects/Mentoring_Students/azuretechathon-mentoring)
 >
-> [AWS](https://github.com/dummy-andra/CloudEngineerNotes/tree/main/0-Cloud/AWS)
-> 
-> [Azure](https://github.com/dummy-andra/CloudEngineerNotes/tree/main/0-Cloud/Azure)
-> - [AKS](https://github.com/dummy-andra/CloudEngineerNotes/tree/main/0-Cloud/Azure/AKS)
-> - [ARO](https://github.com/dummy-andra/CloudEngineerNotes/tree/main/0-Cloud/Azure/ARO)
 > [work-in-progress-on-personal-wiki-notes](https://github.com/dummy-andra/CloudEngineerNotes)
 
