@@ -51,3 +51,4 @@ permalink: /docs/Cloud/Azure/
 
 │   │   └── [AzureStorage](https://github.com/dummy-andra/CloudEngineerNotes/tree/main/0-Cloud/Azure/AzureStorage)
 │   │       ├── Access storage account from AKS cluster.md
+
